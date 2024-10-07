@@ -1,0 +1,7 @@
+.env
+/node_modules
+curl.md
+package-lock.json
+auth-service.postman_collection.json
+auth-serviceSep2022.postman_collection.json
+/logs
